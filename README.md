@@ -1,5 +1,6 @@
 # Social-Network-Analysis
 Facebook Large Page-Page Network Analysis
+Data Source: https://snap.stanford.edu/data/facebook-large-page-page-network.html
 
 A page-page graph of verified Facebook sites. Nodes represent official Facebook pages while the links are mutual likes between sites. 
 Node features are extracted from the site descriptions that the page owners created to summarize the purpose of the site. 
